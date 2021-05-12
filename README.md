@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/4adI6CB0g4KTomIbKx/giphy.gif">
+<p align="center">
+<img src="https://media.giphy.com/media/3oz8xSjBmD1ZyELqW4/giphy.gif" >
+</p>
 
 ### Hi there, I'm Fabio a Web Developer 👋,
 
@@ -21,7 +23,15 @@
 ![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES8&style=for-the-badge&color=F7DF1E&logo=JavaScript)
 ![Python](https://img.shields.io/static/v1?label=Python&style=for-the-badge&message=3&color=3776AB&logo=PYTHON)
 ![SCSS](https://img.shields.io/static/v1?label=sass&style=for-the-badge&message=🖌&color=CC6699&logo=sass)
+
+
+### Libraries || Frameworks I use
+
+![Flutter](https://img.shields.io/static/v1?label=Flutter&message=1.19&color=02569B&style=for-the-badge&logo=flutter)
 ![REACT](https://img.shields.io/static/v1?label=react&style=for-the-badge&message=⚙️&color=49CEF7&logo=react)
+![Flask](https://img.shields.io/static/v1?label=Flask&style=for-the-badge&message=1.1.2&color=181717&logo=flask)
+![Django](https://img.shields.io/static/v1?label=Django&style=for-the-badge&message=3.0.8&color=092E20&logo=django)
+
 <!--
 **cartman1978/cartman1978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
