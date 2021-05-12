@@ -27,7 +27,7 @@
 
 ### Libraries || Frameworks I use
 
-![Flutter](https://img.shields.io/static/v1?label=Flutter&message=1.19&color=02569B&style=for-the-badge&logo=flutter)
+
 ![REACT](https://img.shields.io/static/v1?label=react&style=for-the-badge&message=⚙️&color=49CEF7&logo=react)
 ![Flask](https://img.shields.io/static/v1?label=Flask&style=for-the-badge&message=1.1.2&color=181717&logo=flask)
 ![Django](https://img.shields.io/static/v1?label=Django&style=for-the-badge&message=3.0.8&color=092E20&logo=django)
@@ -38,6 +38,13 @@
 ![Github](https://img.shields.io/static/v1?label=GitHub&message=cartman1978&color=181717&style=for-the-badge&logo=github)
 ![Firebase](https://img.shields.io/static/v1?label=Firebase&style=for-the-badge&message=7.16.0&color=FFCA28&logo=firebase)
 ![Npm](https://img.shields.io/static/v1?label=npm&message=%F0%9F%9A%80&color=BD2E32&style=for-the-badge&logo=npm)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cartman1978&show_icons=true&hide_border=true" />
+
+</details>
 
 <!--
 **cartman1978/cartman1978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
