@@ -7,7 +7,9 @@
 - 🌱 I keep studying and learnig new technologies and buildg projects.
 - 👯 I’m looking to collaborate with other content creators.
 - 🎧 I love music  🎮 and videogames.
-- <img src="https://static.wikia.nocookie.net/logopedia/images/7/7f/Logo_Inter_Biscione_Stella.png/revision/latest/scale-to-width-down/250?cb=20190304155255" height="35" align="left"> I'm Inter Milan supporter since I was 10.
+<br>
+<br>
+<img src="https://static.wikia.nocookie.net/logopedia/images/7/7f/Logo_Inter_Biscione_Stella.png/revision/latest/scale-to-width-down/250?cb=20190304155255" height="50" align="left"> I'm Inter Milan supporter since I was 10 and I do prefer the 80's logo.
 
 
 <!--
