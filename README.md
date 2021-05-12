@@ -1,6 +1,13 @@
-### Hi there, I'm Fabio a Fullstack Developer 👋,
+### Hi there, I'm Fabio a Web Developer 👋,
 
   <a href="https://twitter.com/intent/follow?screen_name=cartman78manolo&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/cartman78manolo?label=@cartman78&style=social"></a>  •
+
+## I'm a Husband, Father and Develper and very passionate about modern languages.
+
+- 🌱 I keep studying and learnig new technologies and buildg projects.
+- 👯 I’m looking to collaborate with other content creators.
+- 🎧 I love music  🎮 and videogames.
+- <img src="https://static.wikia.nocookie.net/logopedia/images/7/7f/Logo_Inter_Biscione_Stella.png/revision/latest/scale-to-width-down/250?cb=20190304155255" height="35" align="left"> I'm Inter Milan supporter since I was 10.
 
 
 <!--
