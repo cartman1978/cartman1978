@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/4adI6CB0g4KTomIbKx/giphy.gif">
+
 ### Hi there, I'm Fabio a Web Developer 👋,
 
   <a href="https://twitter.com/intent/follow?screen_name=cartman78manolo&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/cartman78manolo?label=@cartman78&style=social"></a>  •
