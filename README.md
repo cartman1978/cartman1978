@@ -1,4 +1,7 @@
-### Hi there, I'm Fabio a Fullstack Developer 👋
+### Hi there, I'm Fabio a Fullstack Developer 👋,
+
+  <a href="https://twitter.com/intent/follow?screen_name=cartman78manolo&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/cartman78manolo?label=@cartman78&style=social"></a>  •
+
 
 <!--
 **cartman1978/cartman1978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
