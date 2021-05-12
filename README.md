@@ -39,24 +39,27 @@
 ![Firebase](https://img.shields.io/static/v1?label=Firebase&style=for-the-badge&message=7.16.0&color=FFCA28&logo=firebase)
 ![Npm](https://img.shields.io/static/v1?label=npm&message=%F0%9F%9A%80&color=BD2E32&style=for-the-badge&logo=npm)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cartman1978&show_icons=true&hide_border=true" />
 
-</details>
 
-<!--
-**cartman1978/cartman1978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=cartman1978&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartman1978&layout=compact&theme=cobalt" />
 
-Here are some ideas to get you started:
+    
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<hr>
+<p align="center">Let's Get in Touch!</p>
+<p align="center">
+<img src="https://media.giphy.com/media/pjQ1EjFX3vv7Rjcq9j/giphy.gif" height="200">
+
+</p>
+
+ <p align="center">
+    <a href="https://twitter.com/cartman78manolo" alt="Twitter" target="_blank"><img src="./assets/twitter.png"></a>
+    <a href="https://www.linkedin.com/in/simendaehlin" alt="Linkedin" target="_blank"><img src="./assets/linkedin.png"></a>
+   <a href="https://github.com/eventyret" alt="GitHub" target="_blank"><img src="./assets/github.png"></a>
+
+  </p>
