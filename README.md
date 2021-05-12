@@ -32,6 +32,13 @@
 ![Flask](https://img.shields.io/static/v1?label=Flask&style=for-the-badge&message=1.1.2&color=181717&logo=flask)
 ![Django](https://img.shields.io/static/v1?label=Django&style=for-the-badge&message=3.0.8&color=092E20&logo=django)
 
+### Technology I use
+
+![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.48-insider&style=for-the-badge&color=1FC0A7&logo=visual-studio)
+![Github](https://img.shields.io/static/v1?label=GitHub&message=cartman1978&color=181717&style=for-the-badge&logo=github)
+![Firebase](https://img.shields.io/static/v1?label=Firebase&style=for-the-badge&message=7.16.0&color=FFCA28&logo=firebase)
+![Npm](https://img.shields.io/static/v1?label=npm&message=%F0%9F%9A%80&color=BD2E32&style=for-the-badge&logo=npm)
+
 <!--
 **cartman1978/cartman1978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
