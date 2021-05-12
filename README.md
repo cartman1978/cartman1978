@@ -59,7 +59,7 @@
 
  <p align="center">
     <a href="https://twitter.com/cartman78manolo" alt="Twitter" target="_blank"><img src="./assets/twitter.png"></a>
-    <a href="https://www.linkedin.com/in/simendaehlin" alt="Linkedin" target="_blank"><img src="./assets/linkedin.png"></a>
-   <a href="https://github.com/eventyret" alt="GitHub" target="_blank"><img src="./assets/github.png"></a>
+    <a href="https://www.linkedin.com/in/fabio-torti-ab171257/" alt="Linkedin" target="_blank"><img src="./assets/linkedin.png"></a>
+   <a href="https://github.com/cartman1978" alt="GitHub" target="_blank"><img src="./assets/github.png"></a>
 
   </p>
